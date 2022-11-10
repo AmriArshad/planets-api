@@ -1,5 +1,7 @@
 {
   "Mercury": {
-    "id": 1
+    "id": 1,
+    "OrbitDistance": "5.7909227 x 10⁷",
+    "EquatorialRadius": "2.4397 x 10³"
   }
 }
