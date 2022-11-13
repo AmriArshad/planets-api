@@ -1,5 +1,22 @@
 {
   "Earth": {
-    "id": 3
+    "id": 3,
+    "orbitDistance": "1.4959826 x 10⁸ km",
+    "equatorialRadius": "6.3710 x 10³ km",
+    "volume": "1.08321 x 10¹² km³",
+    "mass": "5.9722 x 10²⁴ kg",
+    "density": "5.513 g/cm³",
+    "surfaceGravity": "9.80665 m/s²",
+    "escapeVelocity": "1.119 x 10⁴ m/s",
+    "rotationPeriod": "23.934 Hours",
+    "orbitPeriod": "365.26 Earth Days",
+    "meanOrbitVelocity": "2.9783 x 10⁴ m/s",
+    "orbitEccentricity": 0.01671123,
+    "orbitInclination": "0.00005 degrees",
+    "equatorialInclination": "23.4393 degrees",
+    "surfaceTemperature": "-88/58 °C",
+    "atmosphericConstituents": "Nitrogen, Oxygen",
+    "moons": 1,
+    "rings": false
   }
 }
