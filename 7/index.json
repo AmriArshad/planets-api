@@ -1,5 +1,22 @@
 {
   "Uranus": {
-    "id": 7
+    "id": 7,
+    "orbitDistance": "2.8706582 x 10⁹ km",
+    "equatorialRadius": "2.5362 x 10⁴ km",
+    "volume": "6.83344 x 10¹³ km³",
+    "mass": "8.6810 x 10²⁵ kg",
+    "density": "1.270 g/cm³",
+    "surfaceGravity": "8.87 m/s²",
+    "escapeVelocity": "2.138 x 10⁴ m/s",
+    "rotationPeriod": "-17.23992 Hours",
+    "orbitPeriod": "30,687.15 Earth Days",
+    "meanOrbitVelocity": "6.7991 x 10³ m/s",
+    "orbitEccentricity": 0.04725744,
+    "orbitInclination": "0.77 degrees",
+    "equatorialInclination": "97.8 degrees (retrograde rotation)",
+    "surfaceTemperature": "",
+    "atmosphericConstituents": "Hydrogen, Helium, Methane",
+    "moons": 27,
+    "rings": true
   }
 }
