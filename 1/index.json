@@ -1,7 +1,22 @@
 {
   "Mercury": {
     "id": 1,
-    "OrbitDistance": "5.7909227 x 10⁷",
-    "EquatorialRadius": "2.4397 x 10³"
+    "orbitDistance": "5.7909227 x 10⁷ km",
+    "equatorialRadius": "2.4397 x 10³ km",
+    "volume": "6.08272 x 10¹⁰ km³",
+    "mass": "3.3010 x 10²³ kg",
+    "density": "5.427 g/cm³",
+    "surfaceGravity": "3.7 m/s²",
+    "escapeVelocity": "4.25 x 10³ m/s",
+    "rotationPeriod": "1407.5 Hours",
+    "orbitPeriod": "87.97 Earth Days",
+    "meanOrbitVelocity": "4.7362 x 10⁴ m/s",
+    "orbitEccentricity": 0.20563593,
+    "orbitInclination": "7.0 degrees",
+    "equatorialInclination": "0 degrees",
+    "surfaceTemperature": "100/700 K",
+    "atmosphericConstituents": "",
+    "moons": 0,
+    "rings": false
   }
 }
