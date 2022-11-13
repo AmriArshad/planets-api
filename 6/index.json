@@ -1,5 +1,22 @@
 {
   "Saturn": {
-    "id": 6
+    "id": 6,
+    "orbitDistance": "1.4266664 x 10⁹ km",
+    "equatorialRadius": "5.8232 x 10⁴ km",
+    "volume": "8.2713 x 10¹⁴ km³",
+    "mass": "5.6832 x 10²⁶ kg",
+    "density": "0.687 g/cm³",
+    "surfaceGravity": "10.4 m/s²",
+    "escapeVelocity": "3.609 x 10⁴ m/s",
+    "rotationPeriod": "10.656 Hours",
+    "orbitPeriod": "10,755.70 Earth Days",
+    "meanOrbitVelocity": "9.6391 x 10³ m/s",
+    "orbitEccentricity": 0.05386179,
+    "orbitInclination": "2.49 degrees",
+    "equatorialInclination": "26.7 degrees",
+    "surfaceTemperature": "",
+    "atmosphericConstituents": "Hydrogen, Helium",
+    "moons": 84,
+    "rings": true
   }
 }
