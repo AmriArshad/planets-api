@@ -1,5 +1,22 @@
 {
-  "Uranus": {
-    "id": 8
+  "Neptune": {
+    "id": 8,
+    "orbitDistance": "4.4983964 x 10⁹ km",
+    "equatorialRadius": "2.4622 x 10⁴ km",
+    "volume": "6.25257 x 10¹³ km³",
+    "mass": "1.0241 x 10²⁶ kg",
+    "density": "1.638 g/cm³",
+    "surfaceGravity": "11.15 m/s²",
+    "escapeVelocity": "2.356 x 10⁴ m/s",
+    "rotationPeriod": "16.11000 Hours",
+    "orbitPeriod": "60190.03 Earth Days",
+    "meanOrbitVelocity": "5.4349 x 10³ m/s",
+    "orbitEccentricity": 0.00859048,
+    "orbitInclination": "1.77 degrees",
+    "equatorialInclination": "28.3 degrees",
+    "surfaceTemperature": "",
+    "atmosphericConstituents": "Hydrogen, Helium, Methane",
+    "moons": 14,
+    "rings": true
   }
 }
