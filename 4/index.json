@@ -1,5 +1,22 @@
 {
   "Mars": {
-    "id": 4
+    "id": 4,
+    "orbitDistance": "2.2794382 x 10⁸ km",
+    "equatorialRadius": "3.3895 x 10³ km",
+    "volume": "1.63116 x 10¹¹ km³",
+    "mass": "6.4169 x 10²³ kg",
+    "density": "3.934 g/cm³",
+    "surfaceGravity": "3.71 m/s²",
+    "escapeVelocity": "5.030 x 10³ m/s",
+    "rotationPeriod": "24.623 Hours",
+    "orbitPeriod": "686.98 Earth Days",
+    "meanOrbitVelocity": "2.4077 x 10⁴ m/s",
+    "orbitEccentricity": 0.0933941,
+    "orbitInclination": "1.85 degrees",
+    "equatorialInclination": "25.2 degrees",
+    "surfaceTemperature": "-153/20 °C",
+    "atmosphericConstituents": "Carbon Dioxide, Nitrogen, Argon",
+    "moons": 2,
+    "rings": false
   }
 }
