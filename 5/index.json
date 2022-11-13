@@ -1,5 +1,22 @@
 {
   "Jupiter": {
-    "id": 5
+    "id": 5,
+    "orbitDistance": "7.7834082 x 10⁸ km",
+    "equatorialRadius": "6.9911 x 10⁴ km",
+    "volume": "1.43128 x 10¹⁵ km³",
+    "mass": "1.8981 x 10²⁷ kg",
+    "density": "1.326 g/cm³",
+    "surfaceGravity": "24.79 m/s²",
+    "escapeVelocity": "6.020 x 10⁴ m/s",
+    "rotationPeriod": "9.92496 Hours",
+    "orbitPeriod": "4,332.82 Earth Days",
+    "meanOrbitVelocity": "1.3056 x 10⁴ m/s",
+    "orbitEccentricity": 0.04838624,
+    "orbitInclination": "1.304 degrees",
+    "equatorialInclination": "3.1 degrees",
+    "surfaceTemperature": "",
+    "atmosphericConstituents": "Hydrogen, Helium",
+    "moons": 80,
+    "rings": true
   }
 }
