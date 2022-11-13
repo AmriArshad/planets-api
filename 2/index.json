@@ -1,5 +1,22 @@
 {
   "Venus": {
-    "id": 2
+    "id": 2,
+    "orbitDistance": "1.0820948 x 10⁸ km",
+    "equatorialRadius": "6.0518 x 10³ km",
+    "volume": "9.28415 x 10¹¹ km³",
+    "mass": "4.8673 x 10²⁴ kg",
+    "density": "5.243 g/cm³",
+    "surfaceGravity": "8.87 m/s²",
+    "escapeVelocity": "1.036 x 10⁴ m/s",
+    "rotationPeriod": "-5832.4 Hours",
+    "orbitPeriod": "224.70 Earth Days",
+    "meanOrbitVelocity": "3.5020 x 10⁴ m/s",
+    "orbitEccentricity": 0.00677672	,
+    "orbitInclination": "3.39 degrees",
+    "equatorialInclination": "177.3 degrees (retrograde rotation)",
+    "surfaceTemperature": "735 K",
+    "atmosphericConstituents": "Carbon Dioxide, Nitrogen",
+    "moons": 0,
+    "rings": false
   }
 }
