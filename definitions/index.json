@@ -1,0 +1,16 @@
+{
+  "orbitDistance": "The distance between a planet and the star it orbits.",
+  "equatorialRadius": "The radius of a planet following its equator.",
+  "volume": "The amount of three-dimentional space occupied by an object or surface.",
+  "mass": "The amount of matter present in an object.",
+  "density": "An object or substance's mass per unit of volume.",
+  "surfaceGravity": "The gravity experienced on a planet's surface.",
+  "escapeVelocity": "The minimum velocity required to leave a planets atmosphere.",
+  "rotationPeriod": "The time it takes for a planet to complete one rotation on its axis.",
+  "orbitPeriod": "The time it takes for a planet to complete one orbit around its star.",
+  "meanOrbitVelocity": "The average velocity of a planet whilst it orbits its star",
+  "orbitEccentricity": "The amount by which a planets orbit deviates from a perfect circle. Circular orbits have a value of 0, elliptic orbits have a value between 0 and 1, parabolic escape orbits have a value of 1, and orbits in the shape of a hyperbola have a value greater than 1.",
+  "orbitInclination": "The angle of tilt experienced by a planet as it orbits its star.",
+  "equatorialInclination": "The angle between a planets rotaional axis and its orbital axis.",
+  "atmosphericConstituents": "Elements present in the planets atmosphere."
+}
